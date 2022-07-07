@@ -11,5 +11,5 @@ setuptools.setup(
     url='https://github.com/nimrodzi/test_setup_tools',
     license='None',
     packages=['test'],
-    install_requires=['struct'],
+    install_requires=['numpy'],
 )
