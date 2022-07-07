@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name='test',
+    name='my_test',
     version='0.0.1',
     author='nimrod wear-2b',
     author_email='nimrod@wear-2b.com',
@@ -10,6 +10,6 @@ setuptools.setup(
     # long_description_content_type="text/markdown",
     url='https://github.com/nimrodzi/test_setup_tools',
     license='None',
-    packages=['test'],
+    packages=['my_test'],
     install_requires=[],
 )
