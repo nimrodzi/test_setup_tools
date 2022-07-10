@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-my_test.egg-info/PKG-INFO
-my_test.egg-info/SOURCES.txt
-my_test.egg-info/dependency_links.txt
-my_test.egg-info/top_level.txt
